@@ -9,7 +9,7 @@
 ## Working in style(s)
 ![James Brown](https://media4.giphy.com/media/3oEjI8PRXbQNk8dt2U/200.gif)
 
-Standard HTML without any mockup makes our content render in the browser's default styles, which are generally incredibly
+Standard HTML without any markup makes our content render in the browser's default styles, which are generally incredibly
 dull. It makes our HTML look like a document, which was the original intention of HTML. Nowadays, HTML is used for apps,
 games, and much more — these barely resemble documents, if at all.
 
